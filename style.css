@@ -1,12 +1,20 @@
 /* Change the background of the entire visible page */
 body {
-    background-color: #f0f0f0; /* Very light grey */
+    background-color: #dcf7ff; /* Very light grey */
 }
 
 
+h1 {
+    color: rgb(137, 202, 245);
+}
+
+/* Style for all paragraphs */
 p {
-    color: rgb (135,206,253);
+    color: rgb(98, 56, 211);
+    font-size: 16px;
+    font-family: 'Times New Roman', serif;
 }
+
 
 /* Style for the main heading */
 h1 {
