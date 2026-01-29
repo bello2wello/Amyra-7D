@@ -1,16 +1,6 @@
-/* Change the background of the entire visible page */
-body {
-    background-color: #dcf7ff; /* Very light grey */
-}
-
-
-h1 {
-    color: rgb(137, 202, 245);
-}
-
 /* Style for all paragraphs */
 p {
-    color: rgb(98, 56, 211);
+    color: rgb(79, 90, 236);
     font-size: 16px;
     font-family: 'Times New Roman', serif;
 }
@@ -21,6 +11,8 @@ h1 {
     text-align: center; /* Puts the heading in the middle */
     border: 2px solid blue; /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
-
-    a {
-        text decoration;none }
+}
+   
+   a {
+  text-decoration: none;
+   }
