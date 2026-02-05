@@ -2,7 +2,7 @@
 p {
     color: rgb(79, 90, 236);
     font-size: 16px;
-    font-family: 'Times New Roman', serif;
+    font-family:'Georgia', sans-serif ;
 }
 
 
@@ -11,8 +11,15 @@ h1 {
     text-align: center; /* Puts the heading in the middle */
     border: 2px solid blue; /* Adds an orange border around the heading */
     padding: 10px; /* Adds space inside the border */
+    color: rgb(111, 175, 248)
 }
    
    a {
   text-decoration: none;
    }
+body {
+    background-color: #cbefff; /* Very light grey */
+}
+
+ul { color: rgb(79,90,236)
+}
